@@ -1,2 +1,2 @@
 # grokking-algorithms
-exercising algorithms from g a book
+exercise algorithms from grokking algorithms book
